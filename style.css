@@ -34,7 +34,7 @@
   }
   
   .cta-content .highlight {
-    color: #FFD700;
+    color: #FF4500;
     font-weight: bold;
   }
   
@@ -138,6 +138,9 @@
       padding: 20px 10px;
       text-align: center;
     }
+    .service-card {
+      width: 45%; 
+  }
   
     .cta-content {
       max-width: 100%;
